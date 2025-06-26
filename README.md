@@ -26,19 +26,43 @@ Cada pasta representa um conteúdo ou aula prática relacionada ao backend, cont
 │   └── UserRoutes.ts
 ├── src/
 │   ├── crypto/
+│   │   └── crypto.js
 │   ├── dns/
+│   │   └── dns.js
 │   ├── express/
+│   │   ├── public/
+│   │   │   └── home.html
+│   │   └── hello-world.ts
 │   ├── fetch/
+│   │   ├── fetch.js
+│   │   └── tempCodeRunnerFile.js
 │   ├── http/
+│   │   └── http.js
 │   ├── json/
+│   │   ├── generated-products.json
+│   │   ├── json.md
+│   │   ├── manipulando-json.ts
+│   │   ├── produto.json
+│   │   ├── produto.ts
+│   │   ├── produto2.json
+│   │   ├── produtos.json
+│   │   └── utility-types.ts
 │   ├── leitura-arquivo/
+│   │   ├── arquivo.js
+│   │   ├── texto-com-linhas.txt
+│   │   └── texto.txt
 │   ├── poo/
+│   │   ├── composicao-x-heranca.ts
+│   │   ├── composicao.ts
+│   │   ├── pooI.ts
+│   │   └── pooII.ts
 │   └── querystring/
+│       └── querystring.js
 ├── .env.example
 ├── .gitignore
+├── README.md
 ├── package-lock.json
 ├── package.json
 ├── server.json
 ├── server.ts
-├── tsconfig.json
-└── README.md
+└── tsconfig.json
